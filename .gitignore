@@ -1,0 +1,11 @@
+node_modules
+.keystone/admin
+keystone.db
+*.log
+
+.vscode
+
+/workspaces/*
+!/workspaces/sandbox-top.js
+.env
+app.db
