@@ -34,4 +34,3 @@ If the bot is already on, but Console still shows The bot is off, you may be exp
 
 Note about dev mode: The dev server can leak subprocesses when recompiling, leading to unpleasant results. If possible, take down all bots before recompiling.
 
-Translated with www.DeepL.com/Translator (free version)
